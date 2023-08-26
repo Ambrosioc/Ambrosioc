@@ -18,13 +18,11 @@ Hello there! I'm a code enthusiast with a fervor for crafting innovative and hig
 
 🚀 I'm constantly exploring new technologies and trends to bring innovative ideas to each project I undertake.
 
-👨‍💻 I approach every problem as an opportunity for learning and growth.
+👨🏾‍💻 I approach every problem as an opportunity for learning and growth.
 
 🎨 I believe in aesthetics as much as functionality, a philosophy that shines through in my applications.
 
 ### Beyond Code:
-
-📸 I love photography and capturing memorable moments through my lens.
 
 🎶 Music fuels my creativity; you'll often find me with headphones during coding sessions.
 
