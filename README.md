@@ -1,4 +1,4 @@
-## FullStack JS Developer | React.js and Next.js Expert | Enthusiastic about Technological Innovation 🚀
+## FullStack JS Developer Junior | React.js and Next.js Expert | Enthusiastic about Technological Innovation 🚀
 
 Hello there! I'm a code enthusiast with a fervor for crafting innovative and high-performance web applications. My journey encompasses a year of experience in an advanced development team through an apprenticeship, followed by nine months as a freelance developer, where I honed my skills as a FullStack developer.
 
