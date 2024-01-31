@@ -1,4 +1,4 @@
-## FullStack JS Developer | React.js Symfony
+## FullStack JS Developer | React.js | Node.js | Symfony
 
 Hello there! I'm a code enthusiast with a fervor for crafting innovative and high-performance web applications. My journey encompasses a year of experience in an advanced development team through an apprenticeship, followed by nine months as a freelance developer, where I honed my skills as a FullStack developer.
 
